@@ -1,4 +1,2 @@
 "Conteudo inicial de teste1"  
 "Nova funcionalidade adicionada a teste1" 
-"Mudanca na nova ideia em teste1" "Alterando arquivo texto1.txt localmente" 
-"Alteração feita em teste1 no repo remoto"
