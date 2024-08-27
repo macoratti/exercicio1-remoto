@@ -1,3 +1,4 @@
 "Conteudo inicial de teste1"  
 "Nova funcionalidade adicionada a teste1" 
 "Alterando o arquivo teste1.txt localmente" 
+"Alterando o arquivo teste1.txt remotamente"
